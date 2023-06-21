@@ -1,4 +1,4 @@
-public class Methods2{
+public class Methods3{
 	public static void main(String[] args){
 		studentCount();
 		phone();
