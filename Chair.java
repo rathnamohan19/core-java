@@ -11,6 +11,7 @@ public class Chair{
 		System.out.println(numberOfStudents);
 		System.out.println(marks);
 		System.out.println(name);
+		
 	}
 	
 	

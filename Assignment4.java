@@ -19,7 +19,8 @@ public class Assignment4{
 		System.out.println(returnValue8);
 		short returnValue9 = numberOfStudents();
 		System.out.println(returnValue9);
-		
+		int returnValue10 = array();
+		System.out.println(returnValue10);
 		
 		
 		
@@ -99,6 +100,11 @@ public class Assignment4{
 			short c = 7;
 			short d = c;
 			return d;
+		}
+		public static int array()
+		{
+			int [] arr = {10,20 , 30 , 40};
+			return arr;
 		}
 		
 		
